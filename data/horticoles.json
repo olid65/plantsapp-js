@@ -1,0 +1,1792 @@
+{
+    "+ Crataegomespilus ": {
+        "famille": "Rosaceae",
+        "nom_fr": "N\u00e9flier de Bonveaux",
+        "milieu_principal": "j"
+    },
+    "Abeliophyllum distichum": {
+        "famille": "Oleaceae",
+        "nom_fr": "Fortsythia blanc",
+        "milieu_principal": "j"
+    },
+    "Abies cephalonica": {
+        "famille": "Pinaceae",
+        "nom_fr": "Sapin de Gr\u00e8ce",
+        "milieu_principal": "f"
+    },
+    "Abies concolor": {
+        "famille": "Pinaceae",
+        "nom_fr": "Sapin du Colorado",
+        "milieu_principal": "i"
+    },
+    "Abies grandis": {
+        "famille": "Pinaceae",
+        "nom_fr": "Sapin de Vancouver",
+        "milieu_principal": "j"
+    },
+    "Abies nordmanniana": {
+        "famille": "Pinaceae",
+        "nom_fr": "Sapin du Caucase",
+        "milieu_principal": "i"
+    },
+    "Abies pinsapo": {
+        "famille": "Pinaceae",
+        "nom_fr": "Sapin d'Espagne",
+        "milieu_principal": "f"
+    },
+    "Acer buergerianum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable trifide",
+        "milieu_principal": "f"
+    },
+    "Acer capillipes": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable jasp\u00e9 de rouge",
+        "milieu_principal": "i"
+    },
+    "Acer cappadocicum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable de Cappadoce",
+        "milieu_principal": "f"
+    },
+    "Acer cissifolium": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable \u00e0 feuilles de vigne",
+        "milieu_principal": "i"
+    },
+    "Acer davidii": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable jasp\u00e9 du p\u00e8re David",
+        "milieu_principal": "i"
+    },
+    "Acer ginnala": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable du fleuve Amour",
+        "milieu_principal": "i"
+    },
+    "Acer griseum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable",
+        "milieu_principal": "i"
+    },
+    "Acer japonicum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable du Japon",
+        "milieu_principal": "j"
+    },
+    "Acer monspessulanum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable de Montpellier",
+        "milieu_principal": "f"
+    },
+    "Acer palmatum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable du Japon",
+        "milieu_principal": "j"
+    },
+    "Acer pensylvanicum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable jasp\u00e9 de Pennsylvanie",
+        "milieu_principal": "j"
+    },
+    "Acer rubrum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable rouge d'Am\u00e9rique",
+        "milieu_principal": "i"
+    },
+    "Acer saccharinum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Faux erable \u00e0 sucre",
+        "milieu_principal": "i"
+    },
+    "Acer triflorum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Erable",
+        "milieu_principal": "i"
+    },
+    "Actinidia arguta": {
+        "famille": "Actinidiaceae",
+        "nom_fr": "Kiwai",
+        "milieu_principal": "i"
+    },
+    "Actinidia deliciosa": {
+        "famille": "Actinidiaceae",
+        "nom_fr": "Kiwi de chine",
+        "milieu_principal": "i"
+    },
+    "Aesculus hippocastanum": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Marronnier d'Inde",
+        "milieu_principal": "i"
+    },
+    "Aesculus pavia": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Maronnier rouge nain",
+        "milieu_principal": "j"
+    },
+    "Aesculus x carnea": {
+        "famille": "Sapindaceae",
+        "nom_fr": "Marronnier rouge",
+        "milieu_principal": "i"
+    },
+    "Ailanthus altissima": {
+        "famille": "Simaroubaceae",
+        "nom_fr": "Ailanthe",
+        "milieu_principal": "f"
+    },
+    "Akebia quinata": {
+        "famille": "Lardizabalaceae",
+        "nom_fr": "Ak\u00e9bia \u00e0 cinq feuilles",
+        "milieu_principal": "i"
+    },
+    "Albizia julibrissin": {
+        "famille": "Fabaceae",
+        "nom_fr": "Arbre \u00e0 soie",
+        "milieu_principal": "f"
+    },
+    "Alnus cordata": {
+        "famille": "Betulaceae",
+        "nom_fr": "Aulne \u00e0 feuilles en c\u0153ur",
+        "milieu_principal": "h"
+    },
+    "Alnus x spaethii": {
+        "famille": "Betulaceae",
+        "nom_fr": "Aulne de sitka",
+        "milieu_principal": "h"
+    },
+    "Amelanchier laevis": {
+        "famille": "Rosaceae",
+        "nom_fr": "Am\u00e9lanchier",
+        "milieu_principal": "j"
+    },
+    "Amelanchier lamarckii": {
+        "famille": "Rosaceae",
+        "nom_fr": "Am\u00e9lanchier du Canada",
+        "milieu_principal": "j"
+    },
+    "Amorpha canescens": {
+        "famille": "Fabaceae",
+        "nom_fr": "Amorpha",
+        "milieu_principal": "c"
+    },
+    "Ampelopsis aconitifolia": {
+        "famille": "Vitaceae",
+        "nom_fr": "Vigne vierge",
+        "milieu_principal": "f"
+    },
+    "Aralia elata": {
+        "famille": "Araliaceae",
+        "nom_fr": "Angelique de Chine",
+        "milieu_principal": "j"
+    },
+    "Araucaria araucana": {
+        "famille": "Araucariaceae",
+        "nom_fr": "D\u00e9sespoir du singe",
+        "milieu_principal": "j"
+    },
+    "Aristolochia macrophylla": {
+        "famille": "Aristolochiaceae",
+        "nom_fr": "Aristoloche siphon",
+        "milieu_principal": "j"
+    },
+    "Aronia melanocarpa": {
+        "famille": "Rosaceae",
+        "nom_fr": "Aronia, Aronie noire",
+        "milieu_principal": "k"
+    },
+    "Berberis buxifolia 'Nana'": {
+        "famille": "Berberidaceae",
+        "nom_fr": "Epine vinette",
+        "milieu_principal": "f"
+    },
+    "Berberis candidula": {
+        "famille": "Berberidaceae",
+        "nom_fr": "Epine vinette",
+        "milieu_principal": "f"
+    },
+    "Berberis gagnepanii": {
+        "famille": "Berberidaceae",
+        "nom_fr": "Epine vinette",
+        "milieu_principal": "f"
+    },
+    "Berberis julianae": {
+        "famille": "Berberidaceae",
+        "nom_fr": "Epine vinette",
+        "milieu_principal": "f"
+    },
+    "Berberis thunbergii": {
+        "famille": "Berberidaceae",
+        "nom_fr": "Epine vinette",
+        "milieu_principal": "f"
+    },
+    "Berberis x ottawensis 'Superba'": {
+        "famille": "Berberidaceae",
+        "nom_fr": "Epine vinette",
+        "milieu_principal": "f"
+    },
+    "Berberis x stenophylla": {
+        "famille": "Berberidaceae",
+        "nom_fr": "Epine vinette",
+        "milieu_principal": "f"
+    },
+    "Betula albosinensis": {
+        "famille": "Betulaceae",
+        "nom_fr": "Bouleau de Chine",
+        "milieu_principal": "i"
+    },
+    "Betula lenta": {
+        "famille": "Betulaceae",
+        "nom_fr": "Bouleau merisier",
+        "milieu_principal": "i"
+    },
+    "Betula nigra": {
+        "famille": "Betulaceae",
+        "nom_fr": "Bouleau noir",
+        "milieu_principal": "h"
+    },
+    "Betula papyrifera": {
+        "famille": "Betulaceae",
+        "nom_fr": "Bouleau \u00e0 papier",
+        "milieu_principal": "i"
+    },
+    "Betula utilis": {
+        "famille": "Betulaceae",
+        "nom_fr": "Bouleau de l'Himalaya",
+        "milieu_principal": "i"
+    },
+    "Broussonetia papyrifera": {
+        "famille": "Moraceae",
+        "nom_fr": "M\u00fbrier \u00e0 papier",
+        "milieu_principal": "f"
+    },
+    "Callicarpa bodinieri": {
+        "famille": "Verbenaceae",
+        "nom_fr": "Callicarpa",
+        "milieu_principal": "j"
+    },
+    "Calocedrus decurrens": {
+        "famille": "Cupressaceae",
+        "nom_fr": "C\u00e8dre \u00e0 encens",
+        "milieu_principal": "f"
+    },
+    "Calycanthus floridus": {
+        "famille": "Calycanthaceae",
+        "nom_fr": "Arbre aux an\u00e9mones",
+        "milieu_principal": "i"
+    },
+    "Campsis radicans": {
+        "famille": "Bignoniaceae",
+        "nom_fr": "Bignone de Virginie",
+        "milieu_principal": "f"
+    },
+    "Caragana arborescens": {
+        "famille": "Fabaceae",
+        "nom_fr": "Caragan arborescent",
+        "milieu_principal": "d"
+    },
+    "Carya illinoinensis": {
+        "famille": "Juglandaceae",
+        "nom_fr": "Pacanier",
+        "milieu_principal": "h"
+    },
+    "Carya ovata": {
+        "famille": "Juglandaceae",
+        "nom_fr": "Noyer blanc d'Amerique",
+        "milieu_principal": "h"
+    },
+    "Caryopteris x clandonensis": {
+        "famille": "Verbenaceae",
+        "nom_fr": "Caryopteris",
+        "milieu_principal": "f"
+    },
+    "Catalpa bignonioides": {
+        "famille": "Bignoniaceae",
+        "nom_fr": "Catalpa commun",
+        "milieu_principal": "i"
+    },
+    "Cedrus deodara": {
+        "famille": "Pinaceae",
+        "nom_fr": "C\u00e8dre de l'Himalaya ",
+        "milieu_principal": "f"
+    },
+    "Cedrus libani": {
+        "famille": "Pinaceae",
+        "nom_fr": "C\u00e8dre du Liban ",
+        "milieu_principal": "f"
+    },
+    "Cedrus libani ssp atlantica": {
+        "famille": "Pinaceae",
+        "nom_fr": "C\u00e8dre de l'Atlas ",
+        "milieu_principal": "f"
+    },
+    "Cedrus libani ssp brevifolia": {
+        "famille": "Pinaceae",
+        "nom_fr": "C\u00e8dre de Chypre",
+        "milieu_principal": "f"
+    },
+    "Celastrus scandens": {
+        "famille": "Celastraceae",
+        "nom_fr": "Bourreau des arbres",
+        "milieu_principal": "j"
+    },
+    "Celtis australis": {
+        "famille": "Cannabaceae",
+        "nom_fr": "Micocoulier de Povence",
+        "milieu_principal": "f"
+    },
+    "Celtis koraiensis": {
+        "famille": "Cannabaceae",
+        "nom_fr": "Micocoulier de Cor\u00e9e",
+        "milieu_principal": "f"
+    },
+    "Celtis occidentalis": {
+        "famille": "Cannabaceae",
+        "nom_fr": "Micocoulier de Virginie",
+        "milieu_principal": "f"
+    },
+    "Cephalotaxus harringtonii": {
+        "famille": "Taxaceae",
+        "nom_fr": "Cephalotaxus",
+        "milieu_principal": "j"
+    },
+    "Cercidiphyllum japonicum": {
+        "famille": "Cercidiphyllaceae",
+        "nom_fr": " L'arbre \u00e0 caramel",
+        "milieu_principal": "i"
+    },
+    "Chaenomeles japonica": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cognassier du Japon",
+        "milieu_principal": "f"
+    },
+    "Chaenomeles speciosa": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cognassier du Japon",
+        "milieu_principal": "f"
+    },
+    "Chaenomeles x superba": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cognassier du Japon",
+        "milieu_principal": "f"
+    },
+    "Chamaecytisus  purpureus": {
+        "famille": "Fabaceae",
+        "nom_fr": "Gen\u00eat pourpre",
+        "milieu_principal": "d"
+    },
+    "Chimonanthus praecox": {
+        "famille": "Oleaceae",
+        "nom_fr": "Chimonanthe odorante",
+        "milieu_principal": "k"
+    },
+    "Chitalpa tashkentensis": {
+        "famille": "Bignoniaceae",
+        "nom_fr": "Chitalpa",
+        "milieu_principal": "f"
+    },
+    "Cladrastis kentukea": {
+        "famille": "Fabaceae",
+        "nom_fr": "Virgilier \u00e0 bois jaune",
+        "milieu_principal": "i"
+    },
+    "Clematis alpina": {
+        "famille": "Ranunculaceae",
+        "nom_fr": "Cl\u00e9matite des Alpes",
+        "milieu_principal": "j"
+    },
+    "Clematis montana": {
+        "famille": "Ranunculaceae",
+        "nom_fr": "Cl\u00e9matite des montagnes",
+        "milieu_principal": "j"
+    },
+    "Clematis tangutica": {
+        "famille": "Ranunculaceae",
+        "nom_fr": "Cl\u00e9matite",
+        "milieu_principal": "j"
+    },
+    "Clematis texensis": {
+        "famille": "Ranunculaceae",
+        "nom_fr": "Cl\u00e9matite",
+        "milieu_principal": "j"
+    },
+    "Clematis viticella": {
+        "famille": "Ranunculaceae",
+        "nom_fr": "Cl\u00e9matite petite vigne",
+        "milieu_principal": "j"
+    },
+    "Clerodendrum trichotomum": {
+        "famille": "Verbenaceae",
+        "nom_fr": "Clerodendron",
+        "milieu_principal": "f"
+    },
+    "Cornus alba": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller blanc",
+        "milieu_principal": "k"
+    },
+    "Cornus alternifolia": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller \u00e0 feuilles alternes",
+        "milieu_principal": "j"
+    },
+    "Cornus canadensis": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller du Canada",
+        "milieu_principal": "e"
+    },
+    "Cornus capitata": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller",
+        "milieu_principal": "j"
+    },
+    "Cornus controversa": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller des pagodes",
+        "milieu_principal": "j"
+    },
+    "Cornus florida": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller \u00e0 fleurs",
+        "milieu_principal": "j"
+    },
+    "Cornus honkongensis": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller de Hong Kong",
+        "milieu_principal": "j"
+    },
+    "Cornus kousa": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller du Japon",
+        "milieu_principal": "j"
+    },
+    "Cornus nutallii": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller de Nutall",
+        "milieu_principal": "j"
+    },
+    "Cornus officinalis": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller officinal",
+        "milieu_principal": "f"
+    },
+    "Cornus sericea": {
+        "famille": "Cornaceae",
+        "nom_fr": "Cornouiller soyeux",
+        "milieu_principal": "k"
+    },
+    "Corylopsis pauciflora": {
+        "famille": "Hamamelidaceae",
+        "nom_fr": "Corylopsis \u00e0 petites fleurs",
+        "milieu_principal": "e"
+    },
+    "Corylopsis spicata": {
+        "famille": "Hamamelidaceae",
+        "nom_fr": "Corylopsis \u00e0 \u00e9pis",
+        "milieu_principal": "e"
+    },
+    "Crataegus x lavallei": {
+        "famille": "Rosaceae",
+        "nom_fr": "Aubepine",
+        "milieu_principal": "j"
+    },
+    "Cryptomeria japonica": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Sugi du Japon",
+        "milieu_principal": "j"
+    },
+    "Cupressus arizonica": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Cypr\u00e8s de l'Arizona",
+        "milieu_principal": "f"
+    },
+    "Cupressus sempervirens": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Cypr\u00e8s de provence",
+        "milieu_principal": "f"
+    },
+    "Cytisus decumbens": {
+        "famille": "Fabaceae",
+        "nom_fr": "Cytise rampant",
+        "milieu_principal": "d"
+    },
+    "Cytisus x kewensis": {
+        "famille": "Fabaceae",
+        "nom_fr": "Cytise",
+        "milieu_principal": "d"
+    },
+    "Davidia involucrata": {
+        "famille": "Nyssaceae",
+        "nom_fr": "Arbre \u00e0 pochettes",
+        "milieu_principal": "j"
+    },
+    "Deutzia gracilis": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Deutzia",
+        "milieu_principal": "i"
+    },
+    "Deutzia scabra": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Deutzia",
+        "milieu_principal": "i"
+    },
+    "Diospyros kaki": {
+        "famille": "Ebenaceae",
+        "nom_fr": "Kaki",
+        "milieu_principal": "i"
+    },
+    "Diospyros lotus": {
+        "famille": "Ebenaceae",
+        "nom_fr": "Plaqueminier",
+        "milieu_principal": "i"
+    },
+    "Edgewortia chrysantha": {
+        "famille": "Thymeleaceae",
+        "nom_fr": "Edgewortia",
+        "milieu_principal": "e"
+    },
+    "Euonymus alatus": {
+        "famille": "Celastraceae",
+        "nom_fr": "Fusain ail\u00e9",
+        "milieu_principal": "j"
+    },
+    "Exochorda racemosa": {
+        "famille": "Rosaceae",
+        "nom_fr": "Exochorde",
+        "milieu_principal": "i"
+    },
+    "Exochorda x macrantha 'The Bride'": {
+        "famille": "Rosaceae",
+        "nom_fr": "Exochorde",
+        "milieu_principal": "i"
+    },
+    "Fallopia aubertii": {
+        "famille": "Polygonaceae",
+        "nom_fr": "Renou\u00e9e grimpante",
+        "milieu_principal": "f"
+    },
+    "Ficus carica": {
+        "famille": "Moraceae",
+        "nom_fr": "Figuier commun",
+        "milieu_principal": "f"
+    },
+    "Fothergilla gardenii": {
+        "famille": "Hamamelidaceae",
+        "nom_fr": "Fothergilla",
+        "milieu_principal": "e"
+    },
+    "Fothergilla major": {
+        "famille": "Hamamelidaceae",
+        "nom_fr": "Fothergilla",
+        "milieu_principal": "e"
+    },
+    "Fraxinus angustifolia": {
+        "famille": "Oleaceae",
+        "nom_fr": "Fr\u00eane \u00e0 feuilles \u00e9troites",
+        "milieu_principal": "h"
+    },
+    "Fraxinus ornus": {
+        "famille": "Oleaceae",
+        "nom_fr": "Fr\u00eane \u00e0 fleurs",
+        "milieu_principal": "f"
+    },
+    "Genista  lydia": {
+        "famille": "Fabaceae",
+        "nom_fr": "Gen\u00eat de lydie",
+        "milieu_principal": "d"
+    },
+    "Genista  pilosa": {
+        "famille": "Fabaceae",
+        "nom_fr": "Gen\u00eat poilu",
+        "milieu_principal": "e"
+    },
+    "Genista  tinctoria": {
+        "famille": "Fabaceae",
+        "nom_fr": "Gen\u00eat des teinturiers",
+        "milieu_principal": "d"
+    },
+    "Ginkgo biloba": {
+        "famille": "Ginkgoaceae",
+        "nom_fr": "Arbre aux quarantes \u00e9cus",
+        "milieu_principal": "i"
+    },
+    "Gleditsia triacanthos": {
+        "famille": "Fabaceae",
+        "nom_fr": "Fevier d'Am\u00e9rique",
+        "milieu_principal": "f"
+    },
+    "Glyptostrobus pencilis": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Cypr\u00e8s des marais",
+        "milieu_principal": "h"
+    },
+    "Gynocladus dioica": {
+        "famille": "Fabaceae",
+        "nom_fr": "Chicot du Canada",
+        "milieu_principal": "i"
+    },
+    "Halesia carolina": {
+        "famille": "Styracaceae",
+        "nom_fr": "Arbres aux cloches d'argent",
+        "milieu_principal": "e"
+    },
+    "Hamamelis mollis": {
+        "famille": "Hamamelidaceae",
+        "nom_fr": "Hamamelis de Chine",
+        "milieu_principal": "e"
+    },
+    "Hamamelis x intermedia": {
+        "famille": "Hamamelidaceae",
+        "nom_fr": "Hamamelis",
+        "milieu_principal": "e"
+    },
+    "Hedera colchica": {
+        "famille": "Araliaceae",
+        "nom_fr": "Lierre du Caucase",
+        "milieu_principal": "l"
+    },
+    "Hedera helix": {
+        "famille": "Araliaceae",
+        "nom_fr": "Lierre commun",
+        "milieu_principal": "l"
+    },
+    "Hedera hibernica": {
+        "famille": "Araliaceae",
+        "nom_fr": "Lierre d'Irlande",
+        "milieu_principal": "l"
+    },
+    "Hibiscus syriacus": {
+        "famille": "Malvaceae",
+        "nom_fr": "Althea",
+        "milieu_principal": "i"
+    },
+    "Holboellia coriacea": {
+        "famille": "Berberidaceae",
+        "nom_fr": "Holboellia",
+        "milieu_principal": "j"
+    },
+    "Humulus lupulus": {
+        "famille": "Cannabaceae",
+        "nom_fr": "Houblon",
+        "milieu_principal": "f"
+    },
+    "Hydrangea anomala ssp petiolaris": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia grimpant",
+        "milieu_principal": "j"
+    },
+    "Hydrangea arborescens": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia am\u00e9ricain",
+        "milieu_principal": "j"
+    },
+    "Hydrangea aspera": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia velu",
+        "milieu_principal": "j"
+    },
+    "Hydrangea macrophylla": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia",
+        "milieu_principal": "j"
+    },
+    "Hydrangea paniculata": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia panicul\u00e9",
+        "milieu_principal": "j"
+    },
+    "Hydrangea quercifolia": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia \u00e0 feuille de ch\u00eane",
+        "milieu_principal": "j"
+    },
+    "Hydrangea seemannii": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia grimpant",
+        "milieu_principal": "i"
+    },
+    "Hydrangea serrata": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia japonais",
+        "milieu_principal": "j"
+    },
+    "Hydrangea villosa": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia",
+        "milieu_principal": "j"
+    },
+    "Hypericum androsaemum": {
+        "famille": "Hypericaceae",
+        "nom_fr": "Millepertuis sanguin",
+        "milieu_principal": "k"
+    },
+    "Hypericum calycinum": {
+        "famille": "Hypericaceae",
+        "nom_fr": "Millepertuis",
+        "milieu_principal": "f"
+    },
+    "Idesia polycarpa": {
+        "famille": "Salicaceae",
+        "nom_fr": "Idesia",
+        "milieu_principal": "i"
+    },
+    "Indigofera heterantha": {
+        "famille": "Fabaceae",
+        "nom_fr": "Indigo",
+        "milieu_principal": "f"
+    },
+    "Indigofera pendula": {
+        "famille": "Fabaceae",
+        "nom_fr": "Indigo pleureur",
+        "milieu_principal": "f"
+    },
+    "Ipomoea mina": {
+        "famille": "Convolvulaceae",
+        "nom_fr": "Mina",
+        "milieu_principal": "i"
+    },
+    "Ipomoea quamoclit": {
+        "famille": "Convolvulaceae",
+        "nom_fr": "Cheveux de Venus",
+        "milieu_principal": "i"
+    },
+    "Jasminum beesianum": {
+        "famille": "Oleaceae",
+        "nom_fr": "Jasmin  ",
+        "milieu_principal": "k"
+    },
+    "Jasminum nudiflorum": {
+        "famille": "Oleaceae",
+        "nom_fr": "Jasmin d'hiver ",
+        "milieu_principal": "k"
+    },
+    "Jasminum officinale": {
+        "famille": "Oleaceae",
+        "nom_fr": "Jasmin officinal",
+        "milieu_principal": "k"
+    },
+    "Jasminum x stephanense": {
+        "famille": "Oleaceae",
+        "nom_fr": "Jasmin  ",
+        "milieu_principal": "k"
+    },
+    "Juglans  nigra": {
+        "famille": "Juglandaceae",
+        "nom_fr": "Noyer noir d'Am\u00e9rique",
+        "milieu_principal": "i"
+    },
+    "Kerria japonica": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cor\u00e8te du Japon",
+        "milieu_principal": "f"
+    },
+    "Kolkwizia amabilis": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Buisson de beaut\u00e9",
+        "milieu_principal": "i"
+    },
+    "Lagerstroemia indica": {
+        "famille": "Lythraceae",
+        "nom_fr": "Lilas des Indes",
+        "milieu_principal": "f"
+    },
+    "Larix decidua": {
+        "famille": "Pinaceae",
+        "nom_fr": "M\u00e9l\u00e8ze d'Europe",
+        "milieu_principal": "e"
+    },
+    "Larix kaempferi": {
+        "famille": "Pinaceae",
+        "nom_fr": "M\u00e9l\u00e8ze du Japon",
+        "milieu_principal": "e"
+    },
+    "Lespedeza thunbergii": {
+        "famille": "Fabaceae",
+        "nom_fr": "Lespedeza de Thunberg",
+        "milieu_principal": "f"
+    },
+    "Ligustrum japonicum": {
+        "famille": "Oleaceae",
+        "nom_fr": "Tro\u00e8ne du Japon",
+        "milieu_principal": "k"
+    },
+    "Ligustrum lucidum": {
+        "famille": "Oleaceae",
+        "nom_fr": "Tro\u00e8ne du Japon",
+        "milieu_principal": "k"
+    },
+    "Ligustrum ovalifolium": {
+        "famille": "Oleaceae",
+        "nom_fr": "Tro\u00e8ne de Californie",
+        "milieu_principal": "k"
+    },
+    "Liquidambar formosa": {
+        "famille": "Altingiaceae",
+        "nom_fr": "Copalme",
+        "milieu_principal": "i"
+    },
+    "Liquidambar orientalis": {
+        "famille": "Altingiaceae",
+        "nom_fr": "Copalme",
+        "milieu_principal": "i"
+    },
+    "Liquidambar styraciflua": {
+        "famille": "Altingiaceae",
+        "nom_fr": "Copalme",
+        "milieu_principal": "i"
+    },
+    "Liriodendron chinense": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Tulipier de Chine",
+        "milieu_principal": "i"
+    },
+    "Liriodendron tulipifera": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Tulipier de Virginie",
+        "milieu_principal": "i"
+    },
+    "Lonicera acuminata": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Chevrefeuille persistant",
+        "milieu_principal": "j"
+    },
+    "Lonicera caprifolium": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Chevrefeuille des jardins",
+        "milieu_principal": "j"
+    },
+    "Lonicera japonica": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Chevrefeuille du Japon",
+        "milieu_principal": "j"
+    },
+    "Lonicera tatarica": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Chevrefeuille de Tatarie",
+        "milieu_principal": "k"
+    },
+    "Lonicera x brownii": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Chevrefeuille",
+        "milieu_principal": "j"
+    },
+    "Lonicera x heckrottii": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Chevrefeuille",
+        "milieu_principal": "j"
+    },
+    "Lonicera x pupusii": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Ch\u00e8vrefeuille",
+        "milieu_principal": "k"
+    },
+    "Maclura pomifera": {
+        "famille": "Moraceae",
+        "nom_fr": "Oranger des Osages",
+        "milieu_principal": "i"
+    },
+    "Magnolia campbellii": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia de Campbell",
+        "milieu_principal": "i"
+    },
+    "Magnolia delavayi": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia de Delavay",
+        "milieu_principal": "k"
+    },
+    "Magnolia denudata": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia d\u00e9nud\u00e9",
+        "milieu_principal": "i"
+    },
+    "Magnolia grandiflora": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia \u00e0 grandes fleurs",
+        "milieu_principal": "i"
+    },
+    "Magnolia kobus": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia du Japon",
+        "milieu_principal": "i"
+    },
+    "Magnolia liliflora": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia pourpre",
+        "milieu_principal": "i"
+    },
+    "Magnolia macrophylla": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia \u00e0 grande feuilles",
+        "milieu_principal": "j"
+    },
+    "Magnolia salicifolia": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia \u00e0 feuilles de saule",
+        "milieu_principal": "i"
+    },
+    "Magnolia sieboldii": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia ",
+        "milieu_principal": "j"
+    },
+    "Magnolia stellata": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia \u00e9toil\u00e9",
+        "milieu_principal": "i"
+    },
+    "Magnolia virginiana": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia de Virginie",
+        "milieu_principal": "i"
+    },
+    "Magnolia x loebneri": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia de Loebner",
+        "milieu_principal": "i"
+    },
+    "Magnolia x soulangeana": {
+        "famille": "Magnoliaceae",
+        "nom_fr": "Magnolia de Soulange",
+        "milieu_principal": "i"
+    },
+    "Malus baccata": {
+        "famille": "Rosaceae",
+        "nom_fr": "Pommier de Siberie",
+        "milieu_principal": "i"
+    },
+    "Malus coronaria": {
+        "famille": "Rosaceae",
+        "nom_fr": "Pommier odorant",
+        "milieu_principal": "i"
+    },
+    "Malus floribunda": {
+        "famille": "Rosaceae",
+        "nom_fr": "Pommier du Japon",
+        "milieu_principal": "i"
+    },
+    "Malus sieboldii": {
+        "famille": "Rosaceae",
+        "nom_fr": "Pommier de Siebold",
+        "milieu_principal": "i"
+    },
+    "Malus trilobata": {
+        "famille": "Rosaceae",
+        "nom_fr": "Pommier \u00e0 fleurs",
+        "milieu_principal": "f"
+    },
+    "Malus tschonoskii": {
+        "famille": "Rosaceae",
+        "nom_fr": "Pommier pyramidal",
+        "milieu_principal": "i"
+    },
+    "Malus x purpurea": {
+        "famille": "Rosaceae",
+        "nom_fr": "Pommier pourpre",
+        "milieu_principal": "i"
+    },
+    "Mespilus germanica": {
+        "famille": "Rosaceae",
+        "nom_fr": "N\u00e9flier",
+        "milieu_principal": "k"
+    },
+    "Metasequoia glyptostroboides": {
+        "famille": "Cupressaceae",
+        "nom_fr": "M\u00e9tasequoia",
+        "milieu_principal": "h"
+    },
+    "Morus alba": {
+        "famille": "Moraceae",
+        "nom_fr": "M\u00fbrier blanc",
+        "milieu_principal": "f"
+    },
+    "Morus nigra": {
+        "famille": "Moraceae",
+        "nom_fr": "M\u00fbrier noir",
+        "milieu_principal": "f"
+    },
+    "Nothofagus antartica": {
+        "famille": "Fagaceae",
+        "nom_fr": "H\u00eatre austral",
+        "milieu_principal": "i"
+    },
+    "Nothofagus obliqua": {
+        "famille": "Fagaceae",
+        "nom_fr": "H\u00eatre austral",
+        "milieu_principal": "i"
+    },
+    "Nyssa aquatica": {
+        "famille": "Nyssaceae",
+        "nom_fr": "Tupelo",
+        "milieu_principal": "h"
+    },
+    "Nyssa sylvatica": {
+        "famille": "Nyssaceae",
+        "nom_fr": "Tupelo",
+        "milieu_principal": "h"
+    },
+    "Ostrya carpinifolia": {
+        "famille": "Betulaceae",
+        "nom_fr": "Charme houblon",
+        "milieu_principal": "f"
+    },
+    "Paeonia decomposita": {
+        "famille": "Paeoniaceae",
+        "nom_fr": "Pivoine arbustive ",
+        "milieu_principal": "i"
+    },
+    "Paeonia delavayi": {
+        "famille": "Paeoniaceae",
+        "nom_fr": "Pivoine arbustive de Delavay",
+        "milieu_principal": "i"
+    },
+    "Paeonia ludlowii": {
+        "famille": "Paeoniaceae",
+        "nom_fr": "Pivoine arbustive du Tibet",
+        "milieu_principal": "i"
+    },
+    "Paeonia ockii": {
+        "famille": "Paeoniaceae",
+        "nom_fr": "Pivoine arbustive du Gansu",
+        "milieu_principal": "f"
+    },
+    "Paeonia ostii": {
+        "famille": "Paeoniaceae",
+        "nom_fr": "Pivoine arbustive de Osti",
+        "milieu_principal": "i"
+    },
+    "Paeonia x suffruticosa": {
+        "famille": "Paeoniaceae",
+        "nom_fr": "Pivoine arbustive hybride",
+        "milieu_principal": "i"
+    },
+    "Parrotia persica": {
+        "famille": "Hamamelidaceae",
+        "nom_fr": "Parrotia",
+        "milieu_principal": "k"
+    },
+    "Parthenocissus quinquefolia": {
+        "famille": "Vitaceae",
+        "nom_fr": "Vigne vierge",
+        "milieu_principal": "f"
+    },
+    "Parthenocissus tricuspidata": {
+        "famille": "Vitaceae",
+        "nom_fr": "Vigne vierge",
+        "milieu_principal": "f"
+    },
+    "Passiflora caerulea": {
+        "famille": "Passifloraceae",
+        "nom_fr": "Passiflore bleue",
+        "milieu_principal": "i"
+    },
+    "Paulownia tomentosa": {
+        "famille": "Paulowniaceae",
+        "nom_fr": "Paulownia imp\u00e9rial",
+        "milieu_principal": "i"
+    },
+    "Perovskia atriplicifolia": {
+        "famille": "Lamiaceae",
+        "nom_fr": "Sauge d'Afghanistan",
+        "milieu_principal": "c"
+    },
+    "Phellodendron amurense": {
+        "famille": "Rutaceae",
+        "nom_fr": "Phellodendron ",
+        "milieu_principal": "i"
+    },
+    "Philadelphus 'Silberregen'": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Seringat des jardins",
+        "milieu_principal": "f"
+    },
+    "Philadelphus 'Virginalis'": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Seringat des jardins",
+        "milieu_principal": "f"
+    },
+    "Philadelphus coronarius": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Seringat des jardins",
+        "milieu_principal": "f"
+    },
+    "Philadelphus inodorus": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Seringat des jardins",
+        "milieu_principal": "f"
+    },
+    "Philadelphus x lemoinei": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Seringat des jardins",
+        "milieu_principal": "f"
+    },
+    "Picea engelmanii": {
+        "famille": "Pinaceae",
+        "nom_fr": "Epicea d'Engelmann",
+        "milieu_principal": "j"
+    },
+    "Picea glauca": {
+        "famille": "Pinaceae",
+        "nom_fr": "Sapinette blanche",
+        "milieu_principal": "i"
+    },
+    "Picea omorica": {
+        "famille": "Pinaceae",
+        "nom_fr": "Epic\u00e9a de Serbie",
+        "milieu_principal": "f"
+    },
+    "Picea pungens": {
+        "famille": "Pinaceae",
+        "nom_fr": "Epicea du Colorado",
+        "milieu_principal": "i"
+    },
+    "Picea sitchensis": {
+        "famille": "Pinaceae",
+        "nom_fr": "Epicea de Sitka",
+        "milieu_principal": "e"
+    },
+    "Pinusbungeana": {
+        "famille": "Pinaceae",
+        "nom_fr": "Pin Napoleon",
+        "milieu_principal": "i"
+    },
+    "Pinushalepensis": {
+        "famille": "Pinaceae",
+        "nom_fr": "Pin d'Alep",
+        "milieu_principal": "f"
+    },
+    "Pinus nigra": {
+        "famille": "Pinaceae",
+        "nom_fr": "Pin noir",
+        "milieu_principal": "f"
+    },
+    "Pinus parviflora": {
+        "famille": "Pinaceae",
+        "nom_fr": "Pin blanc du Japon",
+        "milieu_principal": "i"
+    },
+    "Pinus pinea": {
+        "famille": "Pinaceae",
+        "nom_fr": "Pin parasol",
+        "milieu_principal": "f"
+    },
+    "Pinus ponderosa": {
+        "famille": "Pinaceae",
+        "nom_fr": "Pin jaune d'Am\u00e9rique",
+        "milieu_principal": "i"
+    },
+    "Pinuswallichiana": {
+        "famille": "Pinaceae",
+        "nom_fr": "Pin de l'Hymalaya",
+        "milieu_principal": "i"
+    },
+    "Platanus occidentalis": {
+        "famille": "Platanaceae",
+        "nom_fr": "Platane d'occident",
+        "milieu_principal": "h"
+    },
+    "Platanus orientalis": {
+        "famille": "Platanaceae",
+        "nom_fr": "Platane d'orient",
+        "milieu_principal": "h"
+    },
+    "Platanus x acerifolia": {
+        "famille": "Platanaceae",
+        "nom_fr": "Platane commun",
+        "milieu_principal": "h"
+    },
+    "Platanus x densicoma": {
+        "famille": "Platanaceae",
+        "nom_fr": "Platane commun",
+        "milieu_principal": "h"
+    },
+    "Platanus x Platanor 'Vallis Clausa'": {
+        "famille": "Platanaceae",
+        "nom_fr": "Platane",
+        "milieu_principal": "h"
+    },
+    "Platycladus orientalis": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Thuya d'Orient",
+        "milieu_principal": "f"
+    },
+    "Poliothyrsis sinensis": {
+        "famille": "Salicaceae",
+        "nom_fr": "Arbre aux fleux de perles",
+        "milieu_principal": "i"
+    },
+    "Populus lasiocarpa": {
+        "famille": "Salicaceae",
+        "nom_fr": "Peuplier baumier de Chine",
+        "milieu_principal": "h"
+    },
+    "Potentilla fruticosa": {
+        "famille": "Rosaceae",
+        "nom_fr": "Potentille",
+        "milieu_principal": "c"
+    },
+    "Prunus armeniaca": {
+        "famille": "Rosaceae",
+        "nom_fr": "Abricotier commun",
+        "milieu_principal": "f"
+    },
+    "Prunus cerasifera": {
+        "famille": "Rosaceae",
+        "nom_fr": "Prunier myrobolant",
+        "milieu_principal": "f"
+    },
+    "Prunus dulcis": {
+        "famille": "Rosaceae",
+        "nom_fr": "Amandier commun",
+        "milieu_principal": "f"
+    },
+    "Prunus incisa": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cerisier \u00e0 fleurs du Japon",
+        "milieu_principal": "i"
+    },
+    "Prunus maakii": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cerisier de Mandchourie",
+        "milieu_principal": "i"
+    },
+    "Prunus mume": {
+        "famille": "Rosaceae",
+        "nom_fr": "Abricotier du Japon",
+        "milieu_principal": "i"
+    },
+    "Prunus persica": {
+        "famille": "Rosaceae",
+        "nom_fr": "P\u00eacher commun",
+        "milieu_principal": "f"
+    },
+    "Prunus serrula": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cerisier du Tibet",
+        "milieu_principal": "i"
+    },
+    "Prunus serrulata": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cerisier \u00e0 fleurs du Japon",
+        "milieu_principal": "i"
+    },
+    "Prunus triloba": {
+        "famille": "Rosaceae",
+        "nom_fr": "Amandier d'ornement",
+        "milieu_principal": "i"
+    },
+    "Prunus x subhirtella": {
+        "famille": "Rosaceae",
+        "nom_fr": "Cerisier \u00e0 fleurs du Japon",
+        "milieu_principal": "i"
+    },
+    "Pseudotsuga menziesii": {
+        "famille": "Pinaceae",
+        "nom_fr": "Sapin de Douglas",
+        "milieu_principal": "j"
+    },
+    "Ptelea trifoliata": {
+        "famille": "Rutaceae",
+        "nom_fr": "Orme de Samarie",
+        "milieu_principal": "c"
+    },
+    "Pterocarya fraxinifolia": {
+        "famille": "Juglandaceae",
+        "nom_fr": "Noyer du Caucase",
+        "milieu_principal": "h"
+    },
+    "Punica granatum": {
+        "famille": "Punicaceae",
+        "nom_fr": "Grenadier",
+        "milieu_principal": "c"
+    },
+    "Pyrus calleryana": {
+        "famille": "Rosaceae",
+        "nom_fr": "Poirier",
+        "milieu_principal": "f"
+    },
+    "Quercus acutissima": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane du Japon",
+        "milieu_principal": "i"
+    },
+    "Quercus cerris": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane chevelu",
+        "milieu_principal": "f"
+    },
+    "Quercus coccifera": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane kerm\u00e8s",
+        "milieu_principal": "d"
+    },
+    "Quercus coccinea": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane \u00e9carlate",
+        "milieu_principal": "i"
+    },
+    "Quercus frainetto": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane de Hongrie",
+        "milieu_principal": "i"
+    },
+    "Quercus ilex": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane vert",
+        "milieu_principal": "f"
+    },
+    "Quercus palustris": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane des marais",
+        "milieu_principal": "h"
+    },
+    "Quercus phellos": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane saule",
+        "milieu_principal": "h"
+    },
+    "Quercus rubra": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane rouge d'Am\u00e9rique",
+        "milieu_principal": "i"
+    },
+    "Quercus suber": {
+        "famille": "Fagaceae",
+        "nom_fr": "Ch\u00eane li\u00e8ge",
+        "milieu_principal": "e"
+    },
+    "Rhododendron  molle": {
+        "famille": "Ericaceae",
+        "nom_fr": "Azal\u00e9e caduque",
+        "milieu_principal": "e"
+    },
+    "Ribes sanguineum": {
+        "famille": "Grossulariaceae",
+        "nom_fr": "Groseiller \u00e0 fleurs",
+        "milieu_principal": "j"
+    },
+    "Salix babylonica": {
+        "famille": "Salicaceae",
+        "nom_fr": "Saule pleureur",
+        "milieu_principal": "h"
+    },
+    "Salix matsudana 'Tortuosa'": {
+        "famille": "Salicaceae",
+        "nom_fr": "Saule tortueux (\u00e0 bois vert)",
+        "milieu_principal": "h"
+    },
+    "Salix x erythroflexuosa": {
+        "famille": "Salicaceae",
+        "nom_fr": "Saule tortueux \u00e0 bois rouge",
+        "milieu_principal": "h"
+    },
+    "Salix x sepulchralis 'Chrysocoma'": {
+        "famille": "Salicaceae",
+        "nom_fr": "Saule pleureur",
+        "milieu_principal": "h"
+    },
+    "Sarcococca hookeriana": {
+        "famille": "Buxaceae",
+        "nom_fr": "Sarcococca",
+        "milieu_principal": "l"
+    },
+    "Sarcococca ruscifolia": {
+        "famille": "Buxaceae",
+        "nom_fr": "Sarcococca",
+        "milieu_principal": "l"
+    },
+    "Sassafras albidum": {
+        "famille": "Lauraceae",
+        "nom_fr": "Sassafras",
+        "milieu_principal": "e"
+    },
+    "Schisandra chinensis": {
+        "famille": "Schisandraceae",
+        "nom_fr": "Schisandra",
+        "milieu_principal": "i"
+    },
+    "Schizophragma hydrangeoides": {
+        "famille": "Hydrangeaceae",
+        "nom_fr": "Hortensia grimpant du Japon",
+        "milieu_principal": "j"
+    },
+    "Sciadopitys verticillata": {
+        "famille": "Sciadopityaceae",
+        "nom_fr": "Pin parasol du Japon",
+        "milieu_principal": "e"
+    },
+    "Sequoia sempervirens": {
+        "famille": "Cupressaceae",
+        "nom_fr": "S\u00e9quoia",
+        "milieu_principal": "j"
+    },
+    "Sequoiadendron giganteum": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Sequoia g\u00e9ant",
+        "milieu_principal": "i"
+    },
+    "Sophora japonica": {
+        "famille": "Fabaceae",
+        "nom_fr": "Sophora du Japon",
+        "milieu_principal": "f"
+    },
+    "Sorbaria sorbifolia": {
+        "famille": "Rosaceae",
+        "nom_fr": "Sorbaria",
+        "milieu_principal": "h"
+    },
+    "Sorbus cashmiriana": {
+        "famille": "Rosaceae",
+        "nom_fr": "Sorbier du Cachemire",
+        "milieu_principal": "j"
+    },
+    "Sorbus scalaris": {
+        "famille": "Rosaceae",
+        "nom_fr": "Sorbier \u00e0 feuilles luisantes",
+        "milieu_principal": "f"
+    },
+    "Sorbus vilmorinii": {
+        "famille": "Rosaceae",
+        "nom_fr": "Sorbier de Vilmorin",
+        "milieu_principal": "j"
+    },
+    "Spiraea douglasii": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e",
+        "milieu_principal": "j"
+    },
+    "Spiraea japonica": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e japonaise",
+        "milieu_principal": "f"
+    },
+    "Spiraea nipponica": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e du Japon",
+        "milieu_principal": "f"
+    },
+    "Spiraea prunifolia": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e \u00e0 feuille pruineuse",
+        "milieu_principal": "f"
+    },
+    "Spiraea thunbergii": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e",
+        "milieu_principal": "f"
+    },
+    "Spiraea x arguta": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e",
+        "milieu_principal": "f"
+    },
+    "Spiraea x billardii": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e",
+        "milieu_principal": "j"
+    },
+    "Spiraea x cinerea": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e",
+        "milieu_principal": "f"
+    },
+    "Spiraea x vanhouttei": {
+        "famille": "Rosaceae",
+        "nom_fr": "Spir\u00e9e",
+        "milieu_principal": "f"
+    },
+    "Stachyurus praecox": {
+        "famille": "Stchyuraceae",
+        "nom_fr": "Stachyurus",
+        "milieu_principal": "j"
+    },
+    "Symphoricarpos albus": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Symphorine blanche",
+        "milieu_principal": "k"
+    },
+    "Symphoricarpos orbiculatus": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Symphorine",
+        "milieu_principal": "k"
+    },
+    "Symphoricarpos x chenaultii": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Symphorine tapissante",
+        "milieu_principal": "k"
+    },
+    "Symphoricarpos x doorenbosii 'Mother of Pearl'": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Symphorine",
+        "milieu_principal": "k"
+    },
+    "Syringa josikaea": {
+        "famille": "Oleaceae",
+        "nom_fr": "Lilas de Hongrie",
+        "milieu_principal": "i"
+    },
+    "Syringa meyeri": {
+        "famille": "Oleaceae",
+        "nom_fr": "Lilas nain",
+        "milieu_principal": "i"
+    },
+    "Syringa microphylla": {
+        "famille": "Oleaceae",
+        "nom_fr": "Lilas nain",
+        "milieu_principal": "i"
+    },
+    "Syringa pinnatifolia": {
+        "famille": "Oleaceae",
+        "nom_fr": "Lilas",
+        "milieu_principal": "i"
+    },
+    "Syringa reticulata ssp pekinensis": {
+        "famille": "Oleaceae",
+        "nom_fr": "Lilas",
+        "milieu_principal": "i"
+    },
+    "Syringa villosa": {
+        "famille": "Oleaceae",
+        "nom_fr": "Lilas",
+        "milieu_principal": "i"
+    },
+    "Syringa vulgaris": {
+        "famille": "Oleaceae",
+        "nom_fr": "Lilas commun",
+        "milieu_principal": "i"
+    },
+    "Syringa x persica": {
+        "famille": "Oleaceae",
+        "nom_fr": "Lilas de Perse",
+        "milieu_principal": "i"
+    },
+    "Tamarix parviflora": {
+        "famille": "Tamaricaceae",
+        "nom_fr": "Tamaris de printemps",
+        "milieu_principal": "f"
+    },
+    "Tamarix ramosissima": {
+        "famille": "Tamaricaceae",
+        "nom_fr": "Tamaris d'\u00e9t\u00e9",
+        "milieu_principal": "f"
+    },
+    "Tamarix tetrandra": {
+        "famille": "Tamaricaceae",
+        "nom_fr": "Tamaris \u00e0 quatre \u00e9tamines",
+        "milieu_principal": "f"
+    },
+    "Taxodium distichum": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Cypr\u00e8s chauve",
+        "milieu_principal": "h"
+    },
+    "Taxus cuspidata": {
+        "famille": "Taxaceae",
+        "nom_fr": "If du Japon",
+        "milieu_principal": "l"
+    },
+    "Taxus x media": {
+        "famille": "Taxaceae",
+        "nom_fr": "If hybride",
+        "milieu_principal": "l"
+    },
+    "Tetradium  daniellii": {
+        "famille": "Rutaceae",
+        "nom_fr": "Arbre \u00e0 miel",
+        "milieu_principal": "f"
+    },
+    "Thuja occidentalis": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Thuya du Canada",
+        "milieu_principal": "f"
+    },
+    "Thuja plicata": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Thuya g\u00e9ant",
+        "milieu_principal": "f"
+    },
+    "Thujopsis dolabrata": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Thuyopsis",
+        "milieu_principal": "j"
+    },
+    "Tilia euchlora": {
+        "famille": "Malvaceae",
+        "nom_fr": "Tilleul de crim\u00e9e",
+        "milieu_principal": "k"
+    },
+    "Tilia henryana": {
+        "famille": "Malvaceae",
+        "nom_fr": "Tilleul de Henry",
+        "milieu_principal": "k"
+    },
+    "Tilia mongolica": {
+        "famille": "Malvaceae",
+        "nom_fr": "Tilleul de Mogolie",
+        "milieu_principal": "k"
+    },
+    "Tilia tomentosa": {
+        "famille": "Malvaceae",
+        "nom_fr": "Tilleul argent\u00e9",
+        "milieu_principal": "k"
+    },
+    "Tilia americana": {
+        "famille": "Malvaceae",
+        "nom_fr": "Tilleul d'Am\u00e9rique",
+        "milieu_principal": "j"
+    },
+    "Tilia tuan": {
+        "famille": "Malvaceae",
+        "nom_fr": "Tilleul",
+        "milieu_principal": "j"
+    },
+    "Tilia x europaea": {
+        "famille": "Malvaceae",
+        "nom_fr": "Tilleul de Hollande",
+        "milieu_principal": "j"
+    },
+    "Torreya californica": {
+        "famille": "Taxaceae",
+        "nom_fr": "Muscadier de Californie",
+        "milieu_principal": "j"
+    },
+    "Torreya nucifera": {
+        "famille": "Taxaceae",
+        "nom_fr": "Muscadier du Japon",
+        "milieu_principal": "j"
+    },
+    "Trachelospermum jasminoides": {
+        "famille": "Apocynaceae",
+        "nom_fr": "Jasmin \u00e9toil\u00e9",
+        "milieu_principal": "i"
+    },
+    "Tsuga canadensis": {
+        "famille": "Pinaceae",
+        "nom_fr": "Pruche du Canada",
+        "milieu_principal": "j"
+    },
+    "Tsuga heterophylla": {
+        "famille": "Pinaceae",
+        "nom_fr": "Tsuga de l'Ouest",
+        "milieu_principal": "j"
+    },
+    "Ulex europaeus": {
+        "famille": "Fabaceae",
+        "nom_fr": "Ajonc",
+        "milieu_principal": "e"
+    },
+    "Ulmus parviflora": {
+        "famille": "Ulmaceae",
+        "nom_fr": "Orme de Chine",
+        "milieu_principal": "h"
+    },
+    "Ulmus RESISTA": {
+        "famille": "Ulmaceae",
+        "nom_fr": "Orme hybride",
+        "milieu_principal": "h"
+    },
+    "Viburnum carlesii": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne de Carles",
+        "milieu_principal": "j"
+    },
+    "Viburnum davidii": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne de David",
+        "milieu_principal": "j"
+    },
+    "Viburnum farreri": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne odorante",
+        "milieu_principal": "j"
+    },
+    "Viburnum opulus 'Roseum'": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Boule de neige",
+        "milieu_principal": "j"
+    },
+    "Viburnum plicatum": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne de Chine",
+        "milieu_principal": "j"
+    },
+    "Viburnum rhytidophyllum": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne \u00e0 feuilles rid\u00e9es",
+        "milieu_principal": "j"
+    },
+    "Viburnum tinus": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Laurier tin",
+        "milieu_principal": "f"
+    },
+    "Viburnum utile": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne",
+        "milieu_principal": "j"
+    },
+    "Viburnum x 'Pragense'": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne de Prague",
+        "milieu_principal": "j"
+    },
+    "Viburnum x bodnantense": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne odorante",
+        "milieu_principal": "j"
+    },
+    "Viburnum x burkwoodii": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne de Burkwood",
+        "milieu_principal": "j"
+    },
+    "Viburnum x carlcephalum": {
+        "famille": "Adoxaceae",
+        "nom_fr": "Viorne",
+        "milieu_principal": "j"
+    },
+    "Vitex agnus-castus": {
+        "famille": "Verbenaceae",
+        "nom_fr": "Gattilier",
+        "milieu_principal": "f"
+    },
+    "Vitis coignetiae": {
+        "famille": "Vitaceae",
+        "nom_fr": "Vigne d'ornement",
+        "milieu_principal": "f"
+    },
+    "Weigela florida": {
+        "famille": "Caprifoliaceae",
+        "nom_fr": "Weigelia",
+        "milieu_principal": "j"
+    },
+    "Wisteria floribunda": {
+        "famille": "Fabaceae",
+        "nom_fr": "Glycine du Japon",
+        "milieu_principal": "f"
+    },
+    "Wisteria sinensis": {
+        "famille": "Fabaceae",
+        "nom_fr": "Glycine de Chine",
+        "milieu_principal": "f"
+    },
+    "Wollemia nobilis": {
+        "famille": "Araucariaceae",
+        "nom_fr": "Pin de Wollemi",
+        "milieu_principal": "e"
+    },
+    "x Cupressocyparis leylandii": {
+        "famille": "Cupressaceae",
+        "nom_fr": "Cypr\u00e8s de Leyland",
+        "milieu_principal": "f"
+    },
+    "Zelkova carpinifolia": {
+        "famille": "Ulmaceae",
+        "nom_fr": "Faux orme de Sib\u00e9rie",
+        "milieu_principal": "j"
+    },
+    "Zelkova serrata": {
+        "famille": "Ulmaceae",
+        "nom_fr": "Faux orme du Japon",
+        "milieu_principal": "j"
+    }
+}
